@@ -17,7 +17,7 @@ class Model():
 
         X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=test_size,
                                                             random_state=random_state,
-                                                            stratify=y)
+                                                            stratify=y, shuffle=True)
 
         data_split = {
             "X_train" : X_train,

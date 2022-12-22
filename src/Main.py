@@ -1,15 +1,12 @@
-
-from DataAquisition import DataAquisition
-from DataPreparation import DataPreparation
-from Train import Model
-from GraphicalAnalysis import GraphicalAnalysis
-from SavingModel import SaveModel
-
-import pandas as pd
 import os
+import pandas as pd
+from train.DataAquisition import DataAquisition
+from train.DataPreparation import DataPreparation
+from model_execution.ExecuteModel import ExecuteModel
+
 
 def main():
-    path = os.path.normpath("/home/marcelo/Documents/CerradoPlantNutrition/sample/cerrado_plants.csv")
+    path = os.path.normpath("/home/marcelo/Documents/CerradoPlantNutrition/sample/cerrado_physiognomies.csv")
     
     #data aquisition
     data_aq = DataAquisition(path, sep=",", decimal=".")
@@ -17,7 +14,7 @@ def main():
 
     
     #data preparation
-    subset = ["N(g kg-1)","P(g kg-1)","K(g kg-1)","Ca(g kg-1)","Mg(g kg-1)","accumulating"]
+    subset = ["N(g kg-1)","P(g kg-1)","K(g kg-1)","Ca(g kg-1)","Mg(g kg-1)","Fe(mg kg-1)","Mn(mg kg-1)"]
 
     data_subset = DataPreparation(df).data_subset(subset)
 
@@ -27,43 +24,12 @@ def main():
 
     data_smoothed = DataPreparation(data_remove_outlier).smooth_data(subset, alpha=0.5, adjust=True)
 
+    read_model = ExecuteModel(data_smoothed).load_model()
 
+    print(read_model)
 
-    #spliting data
-    split_data = Model(data_smoothed).data_split_train(subset[:-1], subset[-1],
-                                                         test_size=0.3, random_state=0)
-    
-    
-    #training model
-    train_model = Model(split_data).train_random_forest_classification(n_jobs=-1, random_state=0)
-
-    
-    #scores    
-    y_pred = Model(split_data).model_y_pred(train_model)
-
-    model_accuracy = Model(split_data).model_accuracy_score(y_pred)
-
-    print(model_accuracy)
-
-    feature_score = Model(split_data).model_feature_score(train_model)
-
-    print(feature_score)
-
-    classification_report = Model(split_data).model_classification_report(y_pred)
-
-    print(classification_report)
-    
-
-    ##Graphical analysis
-    GraphicalAnalysis().feature_barplot(feature_score)
-
-    conf_matrix = GraphicalAnalysis().feature_confusion_matrix(y_pred, split_data)
-
-    GraphicalAnalysis().feature_heatmap(conf_matrix)
-
-    
-    #saving the model
-    SaveModel().save_model(train_model)
-
-if __name__=="main":
+if __name__ == "__main__":
     main()
+
+
+

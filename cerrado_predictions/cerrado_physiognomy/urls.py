@@ -1,6 +1,7 @@
 from django.urls import path
-from . import views
+from .views import RfcPrediction
 
 urlpatterns = [
-    path('', views.index, name='index'),
+    path('rfcprediction/', RfcPrediction.as_view(), name='rfcprediction'),
 ]
+

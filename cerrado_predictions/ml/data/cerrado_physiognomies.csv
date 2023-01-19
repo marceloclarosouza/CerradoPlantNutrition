@@ -1,0 +1,399 @@
+References,Vegetation,Local,Family,Specie,N,P,K,Ca,Mg,Fe,Mn
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",1.21,Qualea parviflora Mart.,12.1,0.56,3.7,5.3,1.9,112,194
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",1.31,Qualea grandiflora Mart.,13.1,0.67,4.2,5,2,118,118
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",1.56,Annona crassiflora Mart.,15.6,0.76,5.4,6.4,1.7,77,82
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",1.39,Caryocar brasiliense A.St.-Hil.,13.9,0.72,2.9,5.2,2.3,153,60
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",2.62,Dimorphandra mollis Benth.,26.2,0.4,3,1.5,1,184,18
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",1.03,Kielmeyera coriacea Mart.,10.3,0.62,5.3,4.9,1.7,62,23
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",1.46,Vochysia rufaMart.,14.6,0.78,3.9,3.2,2.1,79,90
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",1.71,Terminalia brasiliensis (Cambess. ex A. St.-Hil.) Eichler,17.1,0.85,4.2,8.2,3.1,92,133
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",1.47,Erythroxylum deciduum A.St.-Hil.,14.7,0.69,3.3,6.7,2.4,66,51
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",1.47,Strychnos pseudoquina A. St.-Hil.,14.7,0.64,4,6.6,2.9,139,388
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",1.57,Sclerolobium aureum (Tul.) Baill.,15.7,0.58,4.7,2,0.9,108,76
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",Vochysiaceae,Qualea parviflora Mart.,18.5,1.35,8.2,10,3.2,194,61
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",Vochysiaceae,Qualea grandiflora Mart.,18.8,1.25,8.7,6.7,2.4,118,53
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",Annonaceae,Annona crassiflora Mart.,22.6,1.81,10.2,6.8,2.9,82,60
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",Caryocaraceae,Caryocar brasiliense A.St.-Hil.,20.4,1.06,5.9,11.2,3.6,60,42
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",Leguminosae,Dimorphandra mollis Benth.,40.1,0.52,5.9,0.6,1.3,18,20
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",Calophyllaceae,Kielmeyera coriacea Mart.,19.3,1.52,9.9,7,2.2,23,17
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",Vochysiaceae,Vochysia rufaMart.,18,1.03,8.1,6.9,3.1,90,65
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",Combretaceae,Terminalia brasiliensis (Cambess. ex A. St.-Hil.) Eichler,19.1,1.47,8.4,12.3,4.4,133,77
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",Erythroxylaceae,Erythroxylum deciduum A.St.-Hil.,21.1,1.4,11.1,17,3.4,51,58
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",Loganiaceae,Strychnos pseudoquina A. St.-Hil.,16.9,0.97,5.6,13.4,3.7,388,423
+"Ribeiro, J.F. (1983)",cerrado,"CPAC, EMBRAPA",Leguminosae,Sclerolobium aureum (Tul.) Baill.,14.7,0.53,4,2.3,0.6,76,112
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.18,Emmotum nitens (Benth.) Miers,11.8,0.6,4.6,4,2.1,174,19
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.53,Ocotea spixiana (Nees) Mez,15.3,0.55,4.5,1.3,1.2,102,35
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.91,Sclerolobium paniculatum L.G.Silva & H.C.Lima,19.1,0.75,3,1.5,1.3,180,114
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",2.29,Siparuna guianensis Aubl.,22.9,1.09,14.6,5.1,2.9,180,602
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.49,Tapirira guianensis Aubl.,14.9,0.9,6.1,12,3.3,108,25
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.97,Xylopia aromatica (Lam.) Mart.,19.7,0.81,4.9,5.1,2,116,107
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.57,Diospyros sericea A.DC.,15.7,0.74,6.2,2.8,2.5,107,30
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.69,Simarouba amara Aubl.,16.9,0.74,5.2,2.4,1.8,98,19
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",2,Bowdichia virgilioides Kunth,20,0.64,4.3,3.2,1.3,107,35
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.55,Maprounea guianensis Aubl.,15.5,0.69,3.4,2,1.9,103,57
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.62,Cordiera macrophylla (K.Schum.) Kuntze,16.2,0.66,8.5,6.9,3.5,129,36
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.18,Emmotum nitens (Benth.) Miers,13.5,0.63,5,6.7,2.3,245,13
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.53,Ocotea spixiana (Nees) Mez,14.4,0.77,6,0.8,1.1,93,29
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.91,Sclerolobium paniculatum L.G.Silva & H.C.Lima,18.6,0.72,4.6,0.7,1,192,107
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",2.29,Siparuna guianensis Aubl.,22.5,0.89,14.7,15.5,2.9,201,548
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.49,Tapirira guianensis Aubl.,18.4,1.22,7.1,21.2,3.7,127,24
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.97,Xylopia aromatica (Lam.) Mart.,19.8,0.73,6.7,12.6,2,241,152
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.57,Diospyros sericea A.DC.,18.6,0.78,7.7,4.6,3.3,163,23
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.69,Simarouba amara Aubl.,20.1,0.93,8.5,3.2,2,108,29
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",2,Bowdichia virgilioides Kunth,24.4,1.17,6.7,2.5,1.6,80,32
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.55,Maprounea guianensis Aubl.,20.4,1.03,5.7,1.9,1.9,86,51
+"Ribeiro, J.F. (1983)",cerradao,"CPAC, EMBRAPA",1.62,Cordiera macrophylla (K.Schum.) Kuntze,16.5,0.9,9.8,14.1,3.3,120,33
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Clusiaceae,Calophyllum brasiliense Cambess.,1.49,0.062,0.55,0.73,0.65,134,37
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Leguminosae,Copaifera langsdorffii Desf.,1.18,0.101,0.93,0.72,0.52,107,847
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Leguminosae,Copaifera langsdorffii Desf.,1.18,0.053,0.72,0.46,0.65,136,1174
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Myrtaceae,Myrcia fenzliana O.Berg,0.92,0.158,1.32,0.82,0.52,160,430
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Myrtaceae,Myrcia fenzliana O.Berg,1.58,0.021,0.57,0.54,0.5,138,220
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Meliaceae,Guarea macrophylla subsp. tuberculata (Vell.)T.D.Penn.,1.05,0.142,0.96,0.25,0.43,129,45
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Meliaceae,Guarea macrophylla subsp. tuberculata (Vell.)T.D.Penn.,1.58,0.021,1.29,0.48,0.72,105,60
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Annonaceae,Guatteria sellowiana Schltdl.,1.05,0.095,0.63,0.82,0.42,118,510
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Annonaceae,Guatteria sellowiana Schltdl.,1.32,0.042,0.57,0.6,0.6,130,431
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Chrysobalanaceae,Hirtella glandulosa Spreng.,1.38,0.068,0.47,0.59,0.44,207,32
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Chrysobalanaceae,Hirtella glandulosa Spreng.,1.38,0.017,0.52,0.53,0.57,140,43
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Phyllanthaceae,Hyeronima alchorneoides Allemão,1.84,0.15,0.71,0.18,0.34,94,43
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Phyllanthaceae,Hyeronima alchorneoides Allemão,1.05,0.031,0.4,0.54,0.77,173,142
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Leguminosae,Inga alba (Sw.) Willd.,0.79,0.155,0.7,0.32,0.38,214,96
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Leguminosae,Inga alba (Sw.) Willd.,1.84,0.032,0.69,0.49,0.64,128,136
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Chrysobalanaceae,Licania apetala (E.Mey.) Fritsch,1.11,0.083,0.41,0.28,0.25,132,96
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Chrysobalanaceae,Licania apetala (E.Mey.) Fritsch,1.18,0.025,0.45,0.26,0.32,159,186
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Lauraceae,Ocotea pomaderroides (Meisn.) Mez,1.58,0.021,0.63,0.66,0.35,113,1078
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Lauraceae,Ocotea sp,1.05,0.084,0.68,0.55,0.35,133,681
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Lauraceae,Ocotea sp,1.05,0.056,0.95,1.12,0.78,129,141
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Burseraceae,Protium heptaphyllum (Aubl.) Marchand,1.22,0.101,0.85,0.46,0.35,84,51
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Burseraceae,Protium heptaphyllum (Aubl.) Marchand,1.4,0.017,0.89,0.52,0.51,105,47
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Moraceae,Pseudolmedia laevigata Trécul,1.14,0.092,0.92,0.56,0.58,114,710
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Moraceae,Pseudolmedia laevigata Trécul,1.23,0.031,1.21,0.45,0.53,120,666
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Phyllanthaceae,Richeria obovata (Müll.Arg.) Pax & K.Hoffm.,1.58,0.011,1.84,0.57,0.74,103,78
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Anacardiaceae,Tapirira guianensis Aubl.,1.36,0.082,0.54,1.58,0.59,145,46
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Anacardiaceae,Tapirira guianensis Aubl.,0.96,0.031,0.61,1.47,0.55,98,45
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Myristicaceae,Virola sebifera Aubl.,0.96,0.094,0.65,0.18,0.16,129,279
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Myristicaceae,Virola sebifera Aubl.,1.4,0.023,0.78,0.33,0.45,128,485
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Annonaceae,Xylopia sericea A.St.-Hil.,1.11,0.104,1.27,0.64,0.62,140,128
+"Silva, P.E.N. (1991)",mata,Olho d'água da Onça,Annonaceae,Xylopia sericea A.St.-Hil.,1.23,0.021,1.15,0.44,0.4,102,475
+"Silva, P.E.N. (1991)",mata,Taquara,Anarcadiaceae,Astronium graveolens Jacq.,1.32,0.101,0.65,0.68,0.37,101,38
+"Silva, P.E.N. (1991)",mata,Taquara,Calophyllaceae,Calophyllum brasiliense Cambess.,1.58,0.05,0.48,1.53,0.3,79,19
+"Silva, P.E.N. (1991)",mata,Taquara,Calophyllaceae,Calophyllum brasiliense Cambess.,1.44,0.06,0.47,1.33,0.51,83,27
+"Silva, P.E.N. (1991)",mata,Taquara,Meliaceae,Cedrela odorata L.,0.92,0.19,1.43,0.87,0.33,84,17
+"Silva, P.E.N. (1991)",mata,Taquara,Meliaceae,Cedrela odorata L.,1.57,0.07,0.67,1.83,0.26,136,24
+"Silva, P.E.N. (1991)",mata,Taquara,Proteaceae,Euplassa inaequalis (Pohl) Engl.,2.9,0.14,1.59,0.49,0.37,98,50
+"Silva, P.E.N. (1991)",mata,Taquara,Proteaceae,Euplassa inaequalis (Pohl) Engl.,NA,0.05,1.39,0.94,0.35,130,110
+"Silva, P.E.N. (1991)",mata,Taquara,Araliaceae,Dendropanax cuneatus (DC.) Decne. & Planch.,0.96,0.09,2.08,2.45,0.61,90,128
+"Silva, P.E.N. (1991)",mata,Taquara,Araliaceae,Dendropanax cuneatus (DC.) Decne. & Planch.,1.44,0.07,1.92,2.71,0.81,130,225
+"Silva, P.E.N. (1991)",mata,Taquara,Nyctaginaceae,Guapira sp,1.97,0.06,0.93,1.15,0.97,127,212
+"Silva, P.E.N. (1991)",mata,Taquara,Nyctaginaceae,Guapira sp,NA,0.1,0.78,1.49,1.21,151,234
+"Silva, P.E.N. (1991)",mata,Taquara,Phyllanthaceae,Hyeronima alchorneoides Allemão,1.05,0.14,2.18,0.59,0.82,83,45
+"Silva, P.E.N. (1991)",mata,Taquara,Cunoniaceae,Lamanonia brasiliensis Zickel & Leitão,0.92,0.09,0.89,1.66,0.6,72,317
+"Silva, P.E.N. (1991)",mata,Taquara,Cunoniaceae,Lamanonia brasiliensis Zickel & Leitão,1.05,0.06,0.7,2.39,0.68,90,327
+"Silva, P.E.N. (1991)",mata,Taquara,Myrtaceae,Myrceugenia sp,0.98,0.09,0.88,1.39,0.38,89,165
+"Silva, P.E.N. (1991)",mata,Taquara,Myrtaceae,Myrceugenia sp,1.18,0.07,0.71,1.7,0.49,118,152
+"Silva, P.E.N. (1991)",mata,Taquara,Burseraceae,Protium heptaphyllum (Aubl.) Marchand,1.11,0.12,0.82,0.74,0.3,97,39
+"Silva, P.E.N. (1991)",mata,Taquara,Burseraceae,Protium heptaphyllum (Aubl.) Marchand,1.24,0.08,1.34,0.58,0.38,66,35
+"Silva, P.E.N. (1991)",mata,Taquara,Rosaceae,Prunus sp,NA,0.07,1.55,2.09,0.47,79,66
+"Silva, P.E.N. (1991)",mata,Taquara,Rosaceae,Prunus sp,NA,0.14,1.43,2.35,0.46,144,195
+"Silva, P.E.N. (1991)",mata,Taquara,Phyllanthaceae,Richeria obovata (Müll.Arg.) Pax & K.Hoffm.,1.31,0.13,1.35,2.13,0.88,163,77
+"Silva, P.E.N. (1991)",mata,Taquara,Phyllanthaceae,Richeria obovata (Müll.Arg.) Pax & K.Hoffm.,1.57,0.08,2.01,1.78,0.54,114,84
+"Silva, P.E.N. (1991)",mata,Taquara,Bignoniaceae,Tabebuia sp,1.31,0.26,2.27,1.05,0.8,95,108
+"Silva, P.E.N. (1991)",mata,Taquara,Bignoniaceae,Tabebuia sp,1.18,0.09,0.9,1.62,1.06,153,172
+"Silva, P.E.N. (1991)",mata,Taquara,Magnoliaceae,Magnolia ovata  (A.St.-Hil.) Spreng.,1.23,0.08,0.61,2.48,0.31,70,80
+"Silva, P.E.N. (1991)",mata,Taquara,Magnoliaceae,Magnolia ovata  (A.St.-Hil.) Spreng.,1.23,0.05,0.84,2.67,0.32,88,75
+"Silva, P.E.N. (1991)",mata,Taquara,Anacardiaceae,Tapirira guianensis Aubl.,1.31,0.09,0.65,2.94,0.23,78,24
+"Silva, P.E.N. (1991)",mata,Taquara,Anacardiaceae,Tapirira guianensis Aubl.,1.22,0.06,0.65,2.67,0.34,77,31
+"Silva, P.E.N. (1991)",mata,Taquara,Dichapetalaceae,Tapura amazonica Poepp. & Endl.,1.05,0.14,0.65,1.81,0.25,133,20
+"Silva, P.E.N. (1991)",mata,Taquara,Myristicaceae,Virola sebifera,1.18,0.05,0.58,1.53,0.26,8,78
+"Silva, P.E.N. (1991)",mata,Taquara,Annonaceae,Xylopia emarginata Mart.,1.49,0.01,0.76,1.69,0.4,135,49
+"Silva, P.E.N. (1991)",mata,Taquara,Annonaceae,Xylopia emarginata Mart.,1.31,0.05,0.73,1,0.32,77,55
+"Silva, P.E.N. (1991)",mata,Monjolo,Rubiaceae,Amaioua guianensis Aubl.,1.31,0.08,1.19,0.43,0.4,162,56
+"Silva, P.E.N. (1991)",mata,Monjolo,Rubiaceae,Amaioua guianensis Aubl.,1.31,0.06,0.97,0.37,0.38,127,85
+"Silva, P.E.N. (1991)",mata,Monjolo,Apocynaceae,Aspidosperma discolor A.DC.,1.57,0.08,1.23,0.81,0.81,157,61
+"Silva, P.E.N. (1991)",mata,Monjolo,Apocynaceae,Aspidosperma discolor A.DC.,1.67,0.08,0.88,0.6,0.95,119,59
+"Silva, P.E.N. (1991)",mata,Monjolo,Anarcadiaceae,Astronium graveolens Jacq.,1.31,0.08,1.28,0.51,0.41,125,25
+"Silva, P.E.N. (1991)",mata,Monjolo,Anarcadiaceae,Astronium graveolens Jacq.,1.32,0.1,1.2,0.34,0.59,190,58
+"Silva, P.E.N. (1991)",mata,Monjolo,Myrtaceae,Blepharocalyx salicifolius (Kunth) O.Berg,0.79,0.07,0.59,0.69,0.59,95,11
+"Silva, P.E.N. (1991)",mata,Monjolo,Myrtaceae,Blepharocalyx salicifolius (Kunth) O.Berg,1.32,0.07,0.52,0.71,0.71,124,17
+"Silva, P.E.N. (1991)",mata,Monjolo,Calophyllaceae,Calophyllum brasiliense Cambess.,1.32,0.05,0.69,0.63,0.51,202,55
+"Silva, P.E.N. (1991)",mata,Monjolo,Calophyllaceae,Calophyllum brasiliense Cambess.,1.05,0.06,1.23,0.29,0.45,86,27
+"Silva, P.E.N. (1991)",mata,Monjolo,Celastraceae,Cheiloclinium cognatum (Miers) A.C.Sm.,1.25,0.08,0.9,0.63,0.64,199,30
+"Silva, P.E.N. (1991)",mata,Monjolo,Celastraceae,Cheiloclinium cognatum (Miers) A.C.Sm.,1.31,0.07,0.89,0.54,0.61,116,33
+"Silva, P.E.N. (1991)",mata,Monjolo,Leguminosae,Copaifera langsdorffii Desf.,1.32,0.11,0.98,0.32,0.34,121,272
+"Silva, P.E.N. (1991)",mata,Monjolo,Leguminosae,Copaifera langsdorffii Desf.,1.05,0.11,0.62,0.73,0.53,114,220
+"Silva, P.E.N. (1991)",mata,Monjolo,Lauraceae,Cryptocarya aschersoniana Mez,1.84,0.07,1.26,0.23,0.2,168,421
+"Silva, P.E.N. (1991)",mata,Monjolo,Lauraceae,Cryptocarya aschersoniana Mez,0.79,0.07,1.29,0.25,0.19,169,489
+"Silva, P.E.N. (1991)",mata,Monjolo,Sapotaceae,Chrysophyllum marginatum (Hook. & Arn.) Radlk.,1.32,0.08,1.11,0.53,0.52,122,32
+"Silva, P.E.N. (1991)",mata,Monjolo,Sapindaceae,Cupania vernalis Cambess.,1.58,0.1,1.15,0.55,0.71,133,1077
+"Silva, P.E.N. (1991)",mata,Monjolo,Sapindaceae,Cupania vernalis Cambess.,1.32,0.07,1.63,0.29,0.47,159,355
+"Silva, P.E.N. (1991)",mata,Monjolo,Icacinaceae,Emmotum nitens (Benth.) Miers,1.05,0.09,0.74,0.49,0.51,320,23
+"Silva, P.E.N. (1991)",mata,Monjolo,Icacinaceae,Emmotum nitens (Benth.) Miers,1.58,0.06,0.88,0.31,0.58,236,27
+"Silva, P.E.N. (1991)",mata,Monjolo,Myrtaceae,Gomidesia cf. lindeniana O.Berg,1.58,0.08,0.8,0.4,0.48,292,573
+"Silva, P.E.N. (1991)",mata,Monjolo,Annonaceae,Guatteria sellowiana Schltdl.,1.49,0.16,1.13,0.65,0.67,253,146
+"Silva, P.E.N. (1991)",mata,Monjolo,Annonaceae,Guatteria sellowiana Schltdl.,1.4,0.05,0.95,0.5,0.53,114,140
+"Silva, P.E.N. (1991)",mata,Monjolo,Rubiaceae,Ixora brevifolia Benth.,1.84,0.05,0.55,0.58,0.4,199,220
+"Silva, P.E.N. (1991)",mata,Monjolo,Rubiaceae,Ixora brevifolia Benth.,1.35,0.05,0.6,0.63,0.56,124,176
+"Silva, P.E.N. (1991)",mata,Monjolo,Chrysobalanaceae,Licania apetala (E.Mey.) Fritsch,1.31,0.09,0.67,0.24,0.31,167,49
+"Silva, P.E.N. (1991)",mata,Monjolo,Chrysobalanaceae,Licania apetala (E.Mey.) Fritsch,1.05,0.08,0.69,0.27,0.39,129,41
+"Silva, P.E.N. (1991)",mata,Monjolo,Euphorbiaceae,Maprounea guianensis Aubl.,1.05,0.06,0.53,0.23,0.3,106,82
+"Silva, P.E.N. (1991)",mata,Monjolo,Celastraceae,Maytenus floribunda Reissek,1.58,0.08,1.09,0.08,0.14,72,62
+"Silva, P.E.N. (1991)",mata,Monjolo,Celastraceae,Maytenus floribunda Reissek,1.05,0.07,0.72,0.19,0.27,127,130
+"Silva, P.E.N. (1991)",mata,Monjolo,Melastomataceae,Miconia sellowiana Naudin,1.58,0.04,0.65,0.31,0.28,91,158
+"Silva, P.E.N. (1991)",mata,Monjolo,Melastomataceae,Miconia sellowiana Naudin,1.38,0.05,0.47,0.37,0.38,98,173
+"Silva, P.E.N. (1991)",mata,Monjolo,Lauraceae,Nectandra lanceolata Nees,1.18,0.08,0.98,0.38,0.47,270,205
+"Silva, P.E.N. (1991)",mata,Monjolo,Lauraceae,Nectandra lanceolata Nees,1.44,0.07,0.69,0.52,0.66,179,567
+"Silva, P.E.N. (1991)",mata,Monjolo,Lauraceae,Ocotea spixiana (Nees) Mez,1.71,0.1,0.78,0.29,0.3,159,233
+"Silva, P.E.N. (1991)",mata,Monjolo,Asteraceae,Piptocarpha macropoda (DC.) Baker,1.64,0.14,1.58,0.48,0.56,197,243
+"Silva, P.E.N. (1991)",mata,Monjolo,Sapotaceae,Pouteria ramiflora (Mart.) Radlk.,1.45,0.08,0.58,0.16,0.25,129,120
+"Silva, P.E.N. (1991)",mata,Monjolo,Sapotaceae,Pouteria ramiflora (Mart.) Radlk.,1.38,0.06,0.64,0.19,0.26,119,181
+"Silva, P.E.N. (1991)",mata,Monjolo,Burseraceae,Protium heptaphyllum (Aubl.) Marchand,1.63,0.09,0.7,0.39,0.33,223,55
+"Silva, P.E.N. (1991)",mata,Monjolo,Burseraceae,Protium heptaphyllum (Aubl.) Marchand,1.25,0.09,0.87,0.23,0.27,150,65
+"Silva, P.E.N. (1991)",mata,Monjolo,Moraceae,Pseudolmedia laevigata Trécul,1.4,0.06,0.81,0.32,0.42,123,474
+"Silva, P.E.N. (1991)",mata,Monjolo,Moraceae,Pseudolmedia laevigata Trécul,1.38,0.06,1.17,0.39,0.46,114,356
+"Silva, P.E.N. (1991)",mata,Monjolo,Anacardiaceae,Tapirira guianensis Aubl.,1.64,0.11,0.86,0.76,0.64,190,30
+"Silva, P.E.N. (1991)",mata,Monjolo,Anacardiaceae,Tapirira guianensis Aubl.,1.18,0.3,0.58,0.65,0.73,222,33
+"Silva, P.E.N. (1991)",mata,Monjolo,Dichapetalaceae,Tapura amazonica Poepp. & Endl.,1.45,0.13,1.09,0.81,1.04,240,44
+"Silva, P.E.N. (1991)",mata,Monjolo,Dichapetalaceae,Tapura amazonica Poepp. & Endl.,1.58,0.05,0.62,0.53,1.03,380,39
+"Silva, P.E.N. (1991)",mata,Monjolo,Burseraceae,Protium unifoliolatum Engl.,2.11,0.1,0.83,0.59,0.55,140,235
+"Silva, P.E.N. (1991)",mata,Monjolo,Myristicaceae,Virola sebifera Aulb.,1.75,0.11,1.28,0.26,0.38,168,185
+"Silva, P.E.N. (1991)",mata,Monjolo,Myristicaceae,Virola sebifera Aulb.,1.49,0.08,0.95,0.26,0.33,189,107
+"Silva, P.E.N. (1991)",mata,Gama,Rubiaceae,Amaioua guianensis Aubl.,1.51,0.1,1.55,0.42,0.4,99,70
+"Silva, P.E.N. (1991)",mata,Gama,Rubiaceae,Amaioua guianensis Aubl.,1.58,0.03,1.48,0.39,0.48,111,63
+"Silva, P.E.N. (1991)",mata,Gama,Apocynaceae,Aspidosperma discolor A.DC.,1.97,0.04,2.51,0.5,0.89,107,369
+"Silva, P.E.N. (1991)",mata,Gama,Anarcadiaceae,Astronium graveolens Jacq.,1.49,0.08,1.22,0.67,0.6,128,35
+"Silva, P.E.N. (1991)",mata,Gama,Anarcadiaceae,Astronium graveolens Jacq.,1.32,0.03,1.13,0.78,0.85,10,37
+"Silva, P.E.N. (1991)",mata,Gama,Meliaceae,Cabralea canjerana (Vell.) Mart.,1.18,0.1,0.65,0.55,0.44,295,52
+"Silva, P.E.N. (1991)",mata,Gama,Meliaceae,Cabralea canjerana (Vell.) Mart.,1.4,0.03,2.58,0.68,1.01,122,88
+"Silva, P.E.N. (1991)",mata,Gama,Celastraceae,Cheiloclinium cognatum (Miers) A.C.Sm.,1.71,0.07,1.02,0.67,0.66,163,92
+"Silva, P.E.N. (1991)",mata,Gama,Celastraceae,Cheiloclinium cognatum (Miers) A.C.Sm.,1.64,0.02,0.79,0.56,0.54,164,52
+"Silva, P.E.N. (1991)",mata,Gama,Leguminosae,Copaifera langsdorffii Desf.,0.79,0.11,1.06,0.57,0.77,120,268
+"Silva, P.E.N. (1991)",mata,Gama,Leguminosae,Copaifera langsdorffii Desf.,1.18,0.04,0.92,0.64,0.58,106,461
+"Silva, P.E.N. (1991)",mata,Gama,Lauraceae,Cryptocarya aschersoniana Mez,1.66,0.14,1.4,0.21,0.22,118,206
+"Silva, P.E.N. (1991)",mata,Gama,Lauraceae,Cryptocarya aschersoniana Mez,1.66,0.03,1.23,0.33,0.41,148,270
+"Silva, P.E.N. (1991)",mata,Gama,Sapindaceae,Cupania vernalis Cambess.,1.57,0.14,1.91,0.28,0.68,157,239
+"Silva, P.E.N. (1991)",mata,Gama,Sapindaceae,Cupania vernalis Cambess.,1.25,0.05,1.74,0.26,0.66,115,215
+"Silva, P.E.N. (1991)",mata,Gama,Icacinaceae,Emmotum nitens (Benth.) Miers,1.58,0.06,0.72,0.34,0.69,156,23
+"Silva, P.E.N. (1991)",mata,Gama,Icacinaceae,Emmotum nitens (Benth.) Miers,1.31,0.04,1.05,0.53,0.55,244,216
+"Silva, P.E.N. (1991)",mata,Gama,Myrtaceae,Myrcia fenzliana O.Berg,1.71,0.04,0.77,0.5,0.05,160,282
+"Silva, P.E.N. (1991)",mata,Gama,Myrtaceae,Myrcia fenzliana O.Berg,1.58,0.03,0.99,0.51,0.52,143,439
+"Silva, P.E.N. (1991)",mata,Gama,Annonaceae,Guatteria sellowiana Schltdl.,1.58,0.09,0.88,0.66,0.86,178,223
+"Silva, P.E.N. (1991)",mata,Gama,Annonaceae,Guatteria sellowiana Schltdl.,1.38,0.02,1.05,0.55,0.8,121,130
+"Silva, P.E.N. (1991)",mata,Gama,Chrysobalanaceae,Hirtella glandulosa Spreng.,2.11,0.15,1.79,0.48,0.89,250,87
+"Silva, P.E.N. (1991)",mata,Gama,Leguminosae,Hymenaea stigonocarpa Hayne,1.75,0.15,1.46,0.41,0.58,108,229
+"Silva, P.E.N. (1991)",mata,Gama,Leguminosae,Hymenaea stigonocarpa Hayne,1.05,0.02,1.46,0.48,0.74,100,306
+"Silva, P.E.N. (1991)",mata,Gama,Bignoniaceae,Jacaranda caroba (Vell.) DC.,1.32,0.07,1.05,0.24,0.32,254,94
+"Silva, P.E.N. (1991)",mata,Gama,Cunoniaceae,Lamanonia ternata Vell.,1.84,0.04,0.57,0.75,0.99,129,221
+"Silva, P.E.N. (1991)",mata,Gama,Cunoniaceae,Lamanonia ternata Vell.,1.21,0.02,1.08,0.74,0.82,97,150
+"Silva, P.E.N. (1991)",mata,Gama,Chrysobalanaceae,Licania apetala (E.Mey.) Fritsch,1.58,0.13,0.5,0.33,0.28,177,87
+"Silva, P.E.N. (1991)",mata,Gama,Chrysobalanaceae,Licania apetala (E.Mey.) Fritsch,1.31,0.01,0.54,0.3,0.32,135,75
+"Silva, P.E.N. (1991)",mata,Gama,Leguminosae,Machaerium acutifolium Vogel,1.84,0.12,0.63,0.53,0.87,197,241
+"Silva, P.E.N. (1991)",mata,Gama,Leguminosae,Machaerium acutifolium Vogel,1.05,0.06,1.03,0.46,0.81,103,242
+"Silva, P.E.N. (1991)",mata,Gama,Celastraceae,Maytenus pittieriana Steyerm.,1.97,0.12,2.15,0.22,0.47,142,301
+"Silva, P.E.N. (1991)",mata,Gama,Celastraceae,Maytenus pittieriana Steyerm.,1.31,0.02,2.63,0.25,0.71,122,264
+"Silva, P.E.N. (1991)",mata,Gama,Rutaceae,Metrodorea stipularis Mart.,1.31,0.16,2.82,0.38,0.8,115,230
+"Silva, P.E.N. (1991)",mata,Gama,Rutaceae,Metrodorea stipularis Mart.,1.31,0.06,2.45,0.35,0.72,134,295
+"Silva, P.E.N. (1991)",mata,Gama,Lauraceae,Nectandra lanceolata Nees & Mart.,1.05,0.12,0.87,0.55,0.33,100,197
+"Silva, P.E.N. (1991)",mata,Gama,Asteraceae,Piptocarpha macropoda (DC.) Baker,1.58,0.12,2.11,0.49,0.66,175,402
+"Silva, P.E.N. (1991)",mata,Gama,Asteraceae,Piptocarpha macropoda (DC.) Baker,1.58,0.09,2.47,0.37,0.57,167,301
+"Silva, P.E.N. (1991)",mata,Gama,Burseraceae,Protium heptaphyllum (Aubl.) Marchand,1.71,0.11,1.37,0.43,0.39,123,307
+"Silva, P.E.N. (1991)",mata,Gama,Burseraceae,Protium heptaphyllum (Aubl.) Marchand,1.45,0.02,0.87,0.4,0.39,111,44
+"Silva, P.E.N. (1991)",mata,Gama,Moraceae,Pseudolmedia laevigata Trécul,1.32,0.05,1.55,0.54,0.4,180,775
+"Silva, P.E.N. (1991)",mata,Gama,Celastraceae,Salacia elliptica (Mart.) G.Don,2.1,0.1,1.7,0.11,0.5,143,48
+"Silva, P.E.N. (1991)",mata,Gama,Symplocaceae,Symplocos mosenii Brand,1.66,0.11,1.01,0.5,0.17,124,205
+"Silva, P.E.N. (1991)",mata,Gama,Symplocaceae,Symplocos mosenii Brand,1.42,0.04,0.81,0.46,0.23,107,179
+"Silva, P.E.N. (1991)",mata,Gama,Anacardiaceae,Tapirira guianensis Aubl.,1.58,0.1,0.72,2.17,0.68,131,45
+"Silva, P.E.N. (1991)",mata,Gama,Anacardiaceae,Tapirira guianensis Aubl.,1.84,0.05,0.86,1.36,0.68,91,36
+"Silva, P.E.N. (1991)",mata,Gama,Burseraceae,Protium unifoliolatum Engl.,1.4,0.31,1.46,0.73,0.6,141,275
+"Silva, P.E.N. (1991)",mata,Gama,Burseraceae,Protium unifoliolatum Engl.,2.37,0.38,2.28,0.51,0.54,134,230
+"Silva, P.E.N. (1991)",mata,Gama,Myristicaceae,Virola sebifera Aubl.,0.92,0.11,1.45,0.14,0.47,209,219
+"Silva, P.E.N. (1991)",mata,Gama,Myristicaceae,Virola sebifera Aubl.,NA,0.02,1.42,0.18,0.54,123,124
+"Silva, P.E.N. (1991)",mata,Gama,Rutaceae,Zanthoxylum rhoifolium Lam.,1.32,0.15,3.34,0.45,0.75,171,211
+"Silva, P.E.N. (1991)",mata,Gama,Rutaceae,Zanthoxylum rhoifolium Lam.,1.58,0.02,2.37,0.41,0.7,114,120
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Acacia glomerosa Benth.,30.4,1.63,8.38,8.68,1.99,140,76
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Arecaceae,Acrocomia aculeata (Jacq.) Lodd. ex Mart.,18.5,1.29,13.52,7.75,1.98,236,57
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Albizia niopoides (Benth.) Burkart,35.1,1.64,12.96,13.31,1.93,139,58
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Anadenanthera colubrina var. cebil (Griseb.) Altschul,31.4,1.22,6.97,17.63,2.04,130,30
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Malvaceae,Apeiba tibourbou Aubl.,24.7,1.39,21.93,12.27,2.31,101,55
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Apocynaceae,Aspidosperma cuspa (Kunth) S.F.Blake ex Pittier,20.4,1.06,8.95,26.79,2.35,145,26
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Anacardiaceae,Astronium fraxinifolium Schott,26.4,1.33,8.79,12.55,1.24,169,26
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Malpighiaceae,Byrsonima basiloba A.Juss.,12.3,0.75,4.01,28.45,2.22,227,28
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Salicaceae,Casearia gossypiosperma Briq.,23.2,1.14,16.25,16.69,2.13,128,531
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Salicaceae,Casearia rupestris Eichler,24.5,1.61,59.54,18.86,2.5,108,105
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Senna silvestris (Vell.) H.S.Irwin & Barneby,28.2,1.56,10.52,16.67,2.11,122,38
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Caryocaraceae,Caryocar brasiliense A.St.-Hil.,21.7,1.06,6.04,9.83,2.89,256,38
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Rubiaceae,Chomelia cf. sericea,25.3,1.17,16.97,8.43,2.42,308,34
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Rubiaceae,Chomelia cf. sessilis,17.2,1,21.22,11.88,2.9,431,54
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Rubiaceae,Chomelia pohliana Müll.Arg.,23.3,1.25,10.58,23.23,2.08,270,35
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Sapotaceae,Chrysophyllum marginatum (Hook. & Arn.) Radlk.,17.5,0.95,4.98,23.33,2.03,181,23
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Rubiaceae,Coussarea hydrangeifolia (Benth.) Benth. & Hook.f. ex Müll.Arg.,25.6,0.97,5.91,15.41,1.82,175,87
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Araliaceae,Dendropanax cuneatus (DC.) Decne. & Planch.,17.2,0.75,19.08,44.18,2.61,145,122
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Sapindaceae,Dilodendron bipinnatum Radlk.,20.9,1.51,8.47,12.12,1.74,278,53
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Dimorphandra mollis Benth.,24.3,1.09,3.92,6.18,2.37,140,32
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Ebenaceae,Diospyros hispida A.DC.,18.4,0.71,13.76,5.72,2.14,207,261
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Ebenaceae,Diospyros inconstans Jacq.,23.9,0.95,36.93,32.52,3.57,134,216
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Lauraceae,Endlicheria paniculata (Spreng.) J.F.Macbr.,22.1,1.11,11.54,24.17,2.03,221,310
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Erythroxylaceae,Erythroxylum deciduum A.St.-Hil.,18.6,0.91,8.68,9.21,2.13,116,48
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Erythroxylaceae,Erythroxylum subracemosum Turcz.,21.1,1.15,10.48,7.71,1.74,92,50
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Myrtaceae,Eugenia florida DC.,15.8,0.94,9.13,13.19,1.73,177,25
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Myrtaceae,Eugenia patrisii Vahl,14.1,0.63,9.22,28.67,2.1,135,20
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Myrtaceae,Eugenia moraviana O.Berg,16.7,0.75,10.16,20.34,2.15,143,20
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Myrtaceae,Eugenia stricta Pancher ex Brongn. & Gris,11.1,0.71,9.75,55.58,4.68,78,16
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Nyctaginaceae,Guapira sp.,45.4,4.56,24.99,17.83,1.44,81,124
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Meliaceae,Guarea sp. ,20.1,0.55,2.12,8.77,1.66,115,82
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Inga sp.1,34.7,2.78,7.11,13.66,1.33,178,103
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Oleaceae,Chionanthus trichotomus (Vell.) P.S.Green,15.2,0.67,7.36,11.96,2.24,105,33
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Anacardiaceae,Lithraea molleoides (Vell.) Engl.,17.2,1.14,11.98,15.4,2.56,150,53
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Machaerium aculeatum Raddi,27.8,1.14,13.59,38.81,1.96,171,94
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Machaerium oblongifolium Vogel,39.1,1.15,9.56,13.41,1.72,215,96
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Machaerium stipitatum (DC.) Vogel,31.8,1.19,10.55,37.58,3.39,83,104
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Sapindaceae,matayba sp.,23,1.56,31.45,9.46,2.2,147,247
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Celastraceae,Maytenus pittieriana Steyerm.,14.9,1.28,18.67,17.05,2.94,164,41
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Myrtaceae,Myrcia splendens (Sw.) DC.,14.9,0.88,5.37,8.33,2.36,270,120
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Lauraceae,Nectandra cissiflora Nees,18.1,1.03,8.67,18.59,2.73,107,79
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Lauraceae,Ocotea minarum (Nees & Mart.) Mez,17.2,0.75,8.17,10.15,2.19,140,124
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Lauraceae,Ocotea pulchella (Nees & Mart.) Mez,18.8,0.91,10.42,7.65,1.8,179,128
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Piptadenia gonoacantha (Mart.) J.F.Macbr.,27.7,1.15,6.54,33.05,1.96,92,100
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Platypodium elegans Vogel,16.3,1.58,10.03,12.61,2.76,145,169
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Malvaceae,Pseudobombax tomentosum (Mart. & Zucc.) A.Robyns,15.4,2.14,10.68,15.28,4.05,510,47
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Myrtaceae,Psidium sartorianum (O.Berg) Nied.,21.2,0.91,57.26,31.41,2.12,190,58
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Rhamnaceae,Rhamnidium elaeocarpum Reissek,23.1,1.19,17.44,47.76,1.34,120,26
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Styracaceae,Styrax camporum Pohl,17.5,0.81,5.61,11.84,1.88,173,106
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Symplocaceae,Symplocos platyphylla (Pohl) Benth.,19.3,0.88,5.46,10.62,2.65,128,58
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Bignoniaceae,Tabebuia roseoalba (Ridl.) Sandwith,21.4,1.22,11.99,26.74,1.93,141,22
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Anacardiaceae,Tapirira guianensis Aubl.,14.7,0.91,5.32,39.39,2.05,86,22
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Combretaceae,Terminalia phaeocarpa Eichler,18.5,1.17,6.01,28.56,2.52,163,58
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Annonaceae,Xylopia aromatica (Lam.) Mart.,19.9,0.87,8.05,8.25,1.49,136,197
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Salicaceae,Xylosma sp.,12.2,0.81,11.36,20.61,1.46,166,116
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Opiliaceae,Agonandra brasiliensis Miers ex Benth.,38.7,2.22,57.08,32.91,2.83,125,130
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Rubiaceae,Cordiera sessilis (Vell.) Kuntze,13.8,0.83,12.01,22.91,2.18,81,30
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Apocynaceae,Aspidosperma cylindrocarpon Müll.Arg.,16.1,0.85,15.55,36.49,2.69,73,35
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Apocynaceae,Aspidosperma parvifolium A.DC.,34.1,1.11,32.81,16.55,3.25,108,51
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Apocynaceae,Aspidosperma subincanum Mart. ex A.DC.,25.6,1.39,18.23,29.96,3.32,167,56
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Bauhinia sp.,25.6,1.61,11.98,26.16,3.2,101,42
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Myrtaceae,Campomanesia velutina (Cambess.) O.Berg,20.4,0.91,10.16,12.12,3.03,228,133
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Salicaceae,Casearia sylvestris Sw.,22.7,0.88,37.57,17.66,2.38,191,384
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Annonaceae,Cardiopetalum calophyllum Schltdl.,25.1,1.31,7.55,12.89,4.4,114,25
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Cannabaceae,Celtis iguanaea (Jacq.) Sarg.,24.7,1.15,12.04,59.47,4.98,160,100
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Celastraceae,Cheiloclinium cognatum (Miers) A.C.Sm.,13.7,0.61,6.16,13.41,2.13,184,29
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Polygonaceae,Coccoloba mollis Casar.,30.6,1.22,11.84,15.95,2.66,330,47
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Copaifera langsdorffii Desf.,19.9,1.01,6.57,12.99,1.95,194,452
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Sapindaceae,Cupania vernalis Cambess.,20.2,1.36,17.71,6.64,2.36,216,598
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Sweetia fruticosa Spreng.,35.1,0.93,12.46,10.31,1.93,156,38
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Malvaceae,Eriotheca candolleana (K.Schum.) A.Robyns,19.7,1.11,11.06,13.78,2.37,196,132
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Rubiaceae,Faramea occidentalis (L.) A.Rich.,14.7,0.65,4.27,9.29,2.37,137,183
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Malvaceae,Guazuma ulmifolia Lam.,20.6,1.01,12.74,26.92,2.3,149,52
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Rubiaceae,Guettarda viburnoides Cham. & Schltdl.,16.9,1.11,20.39,11.67,2.15,226,43
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Leguminosae,Hymenaea courbaril L.,21.5,1.11,7.32,13.07,2.04,161,356
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Malvaceae,Luehea paniculata Mart.,19.7,1.47,15.87,17.74,2.84,206,396
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Phyllanthaceae,Margaritaria nobilis L.f.,20.3,0.95,9.71,16.13,2.23,116,106
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Sapindaceae,matayba guianensis Aubl.,23.9,1.31,12.87,9.93,3.7,141,299
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Myrtaceae,Myrcia tomentosa (Aubl.) DC.,16.9,0.88,7.97,9.51,1.79,171,69
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Lauraceae,Ocotea corymbosa (Meisn.) Mez,15.8,0.98,6.13,6.54,2.42,249,155
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Ochnaceae,Ouratea castaneifolia (DC.) Engl.,14.4,0.85,11.78,11.49,2.59,220,698
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Sapotaceae,Pouteria sp.,20.8,0.93,7.15,4.51,2.18,151,110
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Sapotaceae,Pouteria macrophylla (Lam.) Eyma,19.3,0.88,4.91,15.42,1.32,122,77
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Burseraceae,Protium heptaphyllum (Aubl.) Marchand,16.7,0.65,6.54,5.69,1.81,102,122
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Vochysiaceae,Qualea dichotoma (Mart.) Warm. ex Wille,18.9,0.85,5.78,7.99,1.92,203,37
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Primulaceae,Myrsine guianensis (Aubl.) Kuntze,22.3,1.11,16.05,12.57,1.05,94,25
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Clusiaceae,Garcinia brasiliensis Mart.,14.8,0.71,8.89,26.85,0.98,118,621
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Proteaceae,Roupala montana var. paraensis (Huber) K.S. Edwards,10.8,0.55,7.23,5.13,1.61,142,431
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Rubiaceae,Rudgea viburnoides (Cham.) Benth.,16.5,0.87,16.64,16.71,2.76,364,132
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,NA,Sinira cf. viridifolia,22.1,1.11,15.44,24.69,2.36,119,116
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Combretaceae,Terminalia brasiliensis (Cambess. ex A. St.-Hil.) Eichler,19.1,1.11,6.66,17.45,1.9,142,178
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Myristicaceae,Virola sebifera Aubl.,16.1,0.81,7.94,8.08,2.19,209,790
+"Araujo, G.M. (1992)",mata_semi_descidua,Panga,Vochysiaceae,Vochysia tucanorum Mart.,21.8,1.01,9.19,10.04,0.64,237,27
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Euphorbiaceae,Actinostemon klotzschii (Didr.) Pax,27.1,0.91,5.18,9.49,2.62,154,835
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Lamiaceae,Aegiphila sellowiana Cham.,38.2,1.58,8.44,5.68,2.81,148,36
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Albizia polycephala (Benth.) Killip,41.4,1.67,9.51,3.38,1.93,131,107
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Rubiaceae,Amaioua intermedia Mart. ex Schult. & Schult.f.,24.8,0.88,6.59,4.61,1.69,119,47
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Annonaceae,Annona cacans Warm.,33.3,1.44,5.56,7.47,2.11,179,32
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Apuleia leiocarpa (Vogel) J.F.Macbr.,22.1,1.01,7.01,3.38,1.24,113,69
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Apocynaceae,Aspidosperma discolor A.DC.,18.3,0.83,5.45,10.68,2.69,126,42
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Anacardiaceae,Astronium nelson-rosae Santin,21.5,1.01,6.04,9.42,2.53,211,33
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Malpighiaceae,Byrsonima laxiflora Griseb.,17.2,0.91,5.46,12.91,2.29,875,34
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Vochysiaceae,Callisthene major Mart.,19.9,0.85,4.29,6.62,2.07,210,77
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Lecythidaceae,Cariniana estrellensis (Raddi) Kuntze,21.5,1.23,10.51,4.61,2.37,131,226
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Salicaceae,Casearia decandra Jacq.,28.1,1.22,7.96,6.51,2.62,127,883
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Salicaceae,Casearia grandiflora Cambess.,28.9,0.91,8.43,4.45,2.04,171,1420
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Cassia ferruginea (Schrad.) DC.,23.1,1.19,5.57,9.55,2.65,114,199
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Meliaceae,Cedrela fissilis Vell.,22.8,1.33,5.03,12.65,2.87,141,45
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Moraceae,Maclura tinctoria (L.) D.Don ex Steud.,37.8,1.74,11.76,24.29,3.24,126,85
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Boraginaceae,Cordia sellowiana Cham.,27.6,1.01,13.51,5.74,2.46,270,299
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Rubiaceae,Coussarea contracta (Walp.) Benth. & Hook.f. ex Müll.Arg.,19.7,0.91,2.53,16.25,3.48,299,2477
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Euphorbiaceae,Croton floribundus Spreng.,29.8,1.44,5.21,11.39,3.77,91,1349
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Lauraceae,Cryptocarya moschata Nees & Mart.,17.4,0.91,6.51,3.72,1.49,81,830
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Dalbergia frutescens (Vell.) Britton,32.8,1.61,10.35,7.43,2.03,96,101
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,NA,Deconhecida 1,16.3,0.86,5.83,5.55,2.49,114,43
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Araliaceae,"Schefflera morototoni (Aubl.) Maguire, Steyerm. & Frodin",20.9,0.93,5.95,8.15,2.48,110,391
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Annonaceae,Duguetia lanceolata A.St.-Hil.,27.1,1.28,8.62,3.92,1.71,70,490
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Meliaceae,Guarea guidonia (L.) Sleumer,30.1,1.67,8.71,9.58,2.27,116,48
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Olacaceae,Heisteria ovata Benth.,28.7,0.73,4.31,8.91,2.28,128,1496
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Chrysobalanaceae,Hirtella racemosa Lam.,12.9,0.66,4.45,5.36,2.3,144,25
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Inga laurina (Sw.) Willd.,26.1,1.39,7.59,4.52,1.29,90,60
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Inga sp.1,30.3,1.15,5.23,5.43,1.68,128,132
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Inga sp.2,27.1,1.17,4.23,6.01,1.79,200,159
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Rubiaceae,Ixora brevifolia Benth.,16.3,0.71,9.61,11.39,2.23,70,34
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Bignoniaceae,Jacaranda sp.,29.1,1.51,4.81,4.36,1.76,144,79
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Machaerium nyctitans (Vell.) Benth.,26.7,1.06,3.72,9.35,2.92,133,1098
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Machaerium sp.,47.9,1.44,5.09,5.89,2.27,123,486
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Machaerium villosum Vogel,39.3,1.33,5.17,5.21,1.99,122,285
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Euphorbiaceae,Maprounea guianensis Aubl.,17.5,0.85,2.83,2.15,1.51,148,51
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Celastraceae,Maytenus sp.,22.1,1.29,19.17,7.61,3.96,89,921
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Melastomataceae,Miconia sellowiana Naudin,18.1,0.91,5.97,3.58,1.19,251,166
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Melastomataceae,Miconia sp.,22.4,0.85,5.45,26.54,1.67,121,70
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Myrtaceae,Myrcia sp.,21.9,0.94,12.88,7.38,2.23,173,1511
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Lauraceae,Nectandra membranacea (Sw.) Griseb.,22.1,1.01,4.13,4.35,1.79,93,84
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Lauraceae,Ocotea spixiana (Nees) Mez,20.5,0.83,3.36,4.79,1.97,227,85
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Lauraceae,Ocotea sp. ,20.5,0.83,3.36,4.79,2.14,95,156
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Ormosia fastigiata Tul.,23.4,0.85,2.85,6.29,2.27,270,285
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Compositae,Piptocarpha macropoda (DC.) Baker,28.7,1.53,10.32,4.93,2.43,159,923
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Platycyamus regnellii Benth.,39.3,1.28,8.52,5.42,2.31,158,2754
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Myrtaceae,Psidium rufum Mart. ex DC.,14.8,0.61,11.32,11.56,2.72,73,351
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Vochysiaceae,Qualea multiflora subsp. pubescens (Mart.) Stafleu,19.6,0.96,4.04,7.02,2.2,184,207
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Siparunaceae,Siparuna guianensis Aubl.,31.4,1.31,12.66,8.51,2.73,112,508
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Myrtaceae,Siphoneugena densiflora O.Berg,14.7,0.56,5.61,9.16,2.43,49,1653
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Elaeocarpaceae,Sloanea monosperma Vell.,16.7,0.83,4.67,13.54,2.09,116,790
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Moraceae,"Sorocea bonplandii (Baill.) W.C.Burger, Lanj. & de Boer",26.3,1.19,7.07,11.77,2.46,108,928
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Bignoniaceae,Handroanthus serratifolius (Vahl) S.O.Grose,29.8,1.83,9.33,10.01,2.92,150,458
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Anacardiaceae,Tapirira obtusa (Benth.) J.D.Mitch.,19.1,1.01,4.17,9.52,2.2,109,28
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Meliaceae,Trichilia pallida Sw.,29.1,1.36,11.46,14.78,2.53,111,53
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Lamiaceae,Vitex polygama Cham.,19.1,1.11,7.22,9.52,3.53,442,881
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Annonaceae,Xylopia sericea A.St.-Hil.,20.7,0.93,4.11,9.85,1.89,100,183
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Rutaceae,Zanthoxylum rhoifolium Lam.,25.3,1.19,7.58,8.46,2.28,102,238
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Opiliaceae,Agonandra brasiliensis Miers ex Benth.,36.1,2.42,36.21,10.64,3.41,117,651
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Rubiaceae,Cordiera sessilis (Vell.) Kuntze,12.4,0.71,7.09,15.56,2.43,79,23
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Apocynaceae,Aspidosperma cylindrocarpon Müll.Arg.,16.9,1.01,9.68,11.76,2.79,54,43
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Apocynaceae,Aspidosperma parvifolium A.DC.,31.2,2.22,7.43,6.77,3.2,70,49
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Apocynaceae,Aspidosperma subincanum Mart. ex A.DC.,31.1,1.41,9.67,8.93,3.09,106,178
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Bauhinia sp.,17.2,1.61,17.32,7.69,2.45,101,90
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Myrtaceae,Campomanesia velutina (Cambess.) O.Berg,24.6,1.19,10.54,7.41,3.05,168,215
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Annonaceae,Cardiopetalum calophyllum Schltdl.,25.8,1.14,5.48,8.97,2.1,129,30
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Salicaceae,Casearia sylvestris Sw.,25.8,0.95,15.72,10.81,3.45,119,925
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Cannabaceae,Celtis iguanaea (Jacq.) Sarg.,35.2,1.28,14.19,22.83,3.63,109,109
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Celastraceae,Cheiloclinium cognatum (Miers) A.C.Sm.,17.6,0.63,3.88,9.77,2.47,86,25
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Polygonaceae,Coccoloba mollis Casar.,29.2,1.56,11.45,11.09,2.57,185,181
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Copaifera langsdorffii Desf.,21.7,1.08,4.94,11.37,2.58,149,709
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Sapindaceae,Cupania vernalis Cambess.,20.7,1.28,10.12,8.65,2.72,210,1501
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Sweetia fruticosa Spreng.,28.8,1.06,5.18,7.42,2.09,88,36
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Malvaceae,Eriotheca candolleana (K.Schum.) A.Robyns,23.7,1.22,7.91,8.62,2.65,175,30
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Rubiaceae,Faramea occidentalis (L.) A.Rich.,19.8,0.77,3.43,8.67,2.21,167,175
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Malvaceae,Guazuma ulmifolia Lam.,22.6,1.56,20.62,10.05,2.51,83,43
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Rubiaceae,Guettarda viburnoides Cham. & Schltdl.,23.2,1.17,12.81,9.23,2.34,165,63
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Leguminosae,Hymenaea courbaril L.,23.3,1.04,6.11,5.13,1.74,82,423
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Malvaceae,Luehea paniculata Mart.,17.7,1.14,12.27,9.51,2.4,153,468
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Phyllanthaceae,Margaritaria nobilis L.f.,20.6,1.14,7.01,8.51,2.04,163,158
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Sapindaceae,matayba guianensis Aubl.,22.8,1.44,8.95,6.76,3.37,92,282
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Myrtaceae,Myrcia tomentosa (Aubl.) DC.,15.3,0.95,7.38,6.97,1.8,90,166
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Lauraceae,Ocotea corymbosa (Meisn.) Mez,21.7,0.94,2.72,5.84,2.14,140,124
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Ochnaceae,Ouratea castaneifolia (DC.) Engl.,13.7,0.81,4.72,11.12,2.77,81,1734
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Sapotaceae,Pouteria macrophylla (Lam.) Eyma,22.4,1.19,4.16,9.52,1.97,132,160
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Sapotaceae,Pouteria sp.,19.6,1.88,5.12,2.87,1.13,163,134
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Burseraceae,Protium heptaphyllum (Aubl.) Marchand,15.4,0.81,4.54,5.69,1.68,96,384
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Vochysiaceae,Qualea dichotoma (Mart.) Warm. ex Wille,15.6,0.81,4.42,5.88,1.51,163,76
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Primulaceae,Myrsine guianensis (Aubl.) Kuntze,13.1,0.81,13.16,32.71,2.54,108,93
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Clusiaceae,Garcinia brasiliensis Mart.,14.2,0.81,8.02,12.05,2.22,83,897
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Proteaceae,Roupala montana var. paraensis (Huber) K.S. Edwards,12.1,0.61,5.95,5.97,2.37,97,503
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Rubiaceae,Rudgea viburnoides (Cham.) Benth.,17.5,0.81,9.15,12.22,4.71,134,134
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,NA,Sinira cf. viridifolia,28.1,1.06,9.91,11.59,3.05,168,218
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Combretaceae,Terminalia brasiliensis (Cambess. ex A. St.-Hil.) Eichler,26.4,1.53,10.69,16.64,2.66,180,213
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Myristicaceae,Virola sebifera Aubl.,23.3,0.85,6.31,7.17,2.14,188,1304
+"Araujo, G.M. (1992)",mata_semi_descidua, Glória,Vochysiaceae,Vochysia tucanorum Mart.,22.3,0.91,9.55,7.35,0.93,230,33
